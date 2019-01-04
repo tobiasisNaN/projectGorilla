@@ -12,5 +12,5 @@ If anyone would like to contribute contact me through the FreeCodeCamp Oxford Fa
 
 
 
-Version 1 - Flat and static example
+Version 1 - Flat and static example<br>
 Version 2 - ??? Still in contemplation phase...
