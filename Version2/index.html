@@ -1,0 +1,44 @@
+<html>
+<head>
+	<title>Shopping List - Version 2</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="./assets/bootstrap/css/bootstrap.css">
+	<link rel="stylesheet" href="./assets/fa/css/fontawesome.css">
+	<link rel="stylesheet" href="./assets/css/animate.css">
+	<link rel="stylesheet" href="./assets/css/fonts.css">
+	<link rel="stylesheet" href="./assets/css/main.css">
+</head>
+<body>
+
+<div class="container-fluid">
+
+	<div role="form" class="formWrapper">
+		<div class="form-group">
+			<label for="newItemText">Enter new list item:</label>
+			<input type="text" class="form-control" id="newItemText">
+			<button id="addNewItem" class="btn btn-primary">Add Item <span class="glyphicon glyphicon-plus"></span></button>
+			<button id="clearNewItem" class="btn btn-danger">Clear Text <span class="glyphicon glyphicon-remove"></span></button>
+		</div>
+	</div>
+
+	<div role="form" class="formWrapper">
+		<div class="form-group">
+			<label>Current Shopping List:</label>
+
+			<!-- This text is just an example -->
+			<div class="well">
+				<span class="listItem">Sausages</span> <button class="btn btn-danger btn-large">Remove <span class="glyphicon glyphicon-remove"></span></button>
+			</div>
+		</div>
+	</div>
+
+
+</div>
+
+
+<script src="./assets/jquery/jquery-3.3.1.js"></script>
+<script src="./assets/js/popper.js"></script>
+<script src="./assets/bootstrap/js/bootstrap.js"></script>
+<script src="./assets/js/main.js"></script>
+</body>
+</html>

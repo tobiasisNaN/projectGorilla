@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'Covered By Your Grace';
+    src: local('Covered By Your Grace'), local('CoveredByYourGrace'),
+        url('../fonts/CoveredByYourGrace.woff2') format('woff2'),
+        url('../fonts/CoveredByYourGrace.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Indie Flower';
+    src: local('Indie Flower'), local('IndieFlower'),
+        url('../fonts/IndieFlower.woff2') format('woff2'),
+        url('../fonts/IndieFlower.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Annie Use Your Telescope';
+    src: local('Annie Use Your Telescope Regular'), local('AnnieUseYourTelescope-Regular'),
+        url('../fonts/AnnieUseYourTelescope-Regular.woff2') format('woff2'),
+        url('../fonts/AnnieUseYourTelescope-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Caveat';
+    src: local('Caveat Bold'), local('Caveat-Bold'),
+        url('../fonts/Caveat-Bold.woff2') format('woff2'),
+        url('../fonts/Caveat-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nothing You Could Do';
+    src: local('Nothing You Could Do'), local('NothingYouCouldDo'),
+        url('../fonts/NothingYouCouldDo.woff2') format('woff2'),
+        url('../fonts/NothingYouCouldDo.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Handlee';
+    src: local('Handlee Regular'), local('Handlee-Regular'),
+        url('../fonts/Handlee-Regular.woff2') format('woff2'),
+        url('../fonts/Handlee-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rock Salt';
+    src: local('Rock Salt Regular'), local('RockSalt-Regular'),
+        url('../fonts/RockSalt-Regular.woff2') format('woff2'),
+        url('../fonts/RockSalt-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'The Girl Next Door';
+    src: local('The Girl Next Door'), local('TheGirlNextDoor'),
+        url('../fonts/TheGirlNextDoor.woff2') format('woff2'),
+        url('../fonts/TheGirlNextDoor.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Reenie Beanie';
+    src: local('Reenie Beanie'), local('ReenieBeanie'),
+        url('../fonts/ReenieBeanie.woff2') format('woff2'),
+        url('../fonts/ReenieBeanie.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Caveat';
+    src: local('Caveat Regular'), local('Caveat-Regular'),
+        url('../fonts/Caveat-Regular.woff2') format('woff2'),
+        url('../fonts/Caveat-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gochi Hand';
+    src: local('Gochi Hand'), local('GochiHand-Regular'),
+        url('../fonts/GochiHand-Regular.woff2') format('woff2'),
+        url('../fonts/GochiHand-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

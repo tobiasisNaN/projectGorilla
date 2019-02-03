@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.formWrapper .well, .formWrapper input{
+	margin: 5px;
+	width: 100%;
+}
+.formWrapper .well button{
+	position: relative;
+	display: block;
+	float: right;
+}
+.listItem{
+	font-family: 'The Girl Next Door', cursive;
+	font-size: 1.8em;
+}
