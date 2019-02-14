@@ -1,0 +1,47 @@
+body *{
+	margin: 0;
+	padding: 0;
+}
+#listWrapper{
+	position: relative;
+	width: 50%;
+	margin: 2em auto;
+	border: 1px solid grey;
+	border-radius: 5px;
+}
+#listWrapper h1{
+	text-align: center;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+#listWrapper form{
+	position: relative;
+	width: 90%;
+	margin: 0.5em 5% 0.5em 5%;
+	padding: 0.5em;
+	text-align: center;
+}
+#listWrapper form input, #listWrapper form button{
+	padding: 0.5em;
+}
+.shoppingList{
+	list-style-type: none;
+}
+.shoppingItem{
+	position: relative;
+	display: block;
+	width: 90%;
+	margin: 0.5em 5% 0.5em 5%;
+	border: 1px solid grey;
+	border-radius: 5px;
+	padding: 0.5em;
+	text-align: center;
+}
+.removalButton{
+	display: block;
+	position: absolute;
+	right: 0px;
+	height: 100%;
+	top: 0;
+	padding: 0.5em;
+}
